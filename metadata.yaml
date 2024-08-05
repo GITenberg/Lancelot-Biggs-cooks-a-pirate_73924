@@ -1,0 +1,55 @@
+_repo: Lancelot-Biggs-cooks-a-pirate_73924
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Fuqua, Robert
+    aliases:
+    - Tillotson, Joseph Wirt
+    - Tillotson, Joe W.
+    birthdate: 1905
+    deathdate: 1959
+    gutenberg_agent_id: '34611'
+    url: http://www.gutenberg.org/2009/agents/34611
+  - agent_name: Krupa, Julian S.
+    birthdate: 1913
+    deathdate: 1989
+    gutenberg_agent_id: '57276'
+    url: http://www.gutenberg.org/2009/agents/57276
+creator:
+  author:
+    agent_name: Bond, Nelson S.
+    aliases:
+    - Bond, Nelson Slade
+    - Bond, Nelson
+    - Danzell, George
+    birthdate: 1908
+    deathdate: 2006
+    gutenberg_agent_id: '34095'
+    url: http://www.gutenberg.org/2009/agents/34095
+    wikipedia: https://en.wikipedia.org/wiki/Nelson_S._Bond
+description: ''
+gutenberg_issued: '2024-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73924'
+language: en
+pgterms:marc905: 20240520080244bond
+pgterms:marc906: '1940'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aChicago, IL :$bZiff-Davis Publishing Company, $c1940.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Lancelot Biggs, 2
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Cooks -- Fiction'
+- !lcsh 'Space pirates -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Lancelot Biggs cooks a pirate
+url: http://www.gutenberg.org/ebooks/73924
